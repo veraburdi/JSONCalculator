@@ -1,3 +1,3 @@
 # JSONCalculator
 
-## JSON Parser to hash map + calculator
+## JSON Parser to hash-map + calculator
